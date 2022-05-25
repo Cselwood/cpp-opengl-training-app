@@ -11,7 +11,8 @@ This program will not run without the following requirements (please check main.
 Assimp,
 GLEW,
 GLFW3,
-GLM.
+GLM,
+GTC.
 
 STB_Stage_Implementation is also necessary however this file is included. The other frameworks above are too large. Edit the main.cpp file includes for the correct folders if you have installed these. Ensure your IDE knows the whereabouts of these libraries too.
 
