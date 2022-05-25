@@ -1,0 +1,12 @@
+#ifndef COMMONVALS
+#define COMMONVALS
+
+#include "stb_image.h"
+
+const int WIDTH = 1080;
+const int HEIGHT = 1920;
+
+const int MAX_POINT_LIGHTS = 3;
+const int MAX_SPOT_LIGHTS = 3;
+
+#endif
