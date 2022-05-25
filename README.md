@@ -21,3 +21,18 @@ STB_Stage_Implementation is also necessary however this file is included. The ot
 WASD for movement and Mouse for aiming. You are flying in 3d space but are limited and will not flip over as if there was no up or down axes. 
 Push Escape to exit. 
 
+## Release History
+* 1.0
+    * Full release
+    
+## Meta
+
+Chris Selwood – chris@selwood.io
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+[https://github.com/Cselwood](https://github.com/Cselwood)
+
+## Contributing
+
+If you see an issue, an efficiency that could be made, or an improvement, program away!
+Fork it if you like (<https://github.com/Cselwood/cpp-opengl-training-app/fork>)
