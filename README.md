@@ -5,7 +5,8 @@ A C++, OpenGL and GLSL test program used for to develop my programming skills in
 The User controls a camera flying around in 3d space using KB+M to view different lighting techniques, shadows and surfaces, and moving models. There is no objective or gamified element and is instead a showcase of my programming and development in this difficult framework. Reading the files will provide insight into how I developer the shaders in GLSL and the techniques used to create shadows and objects.
 
 ## Note
-This program will not run without the following requirements (please check main.cpp for #includes)
+This program will not run without the following requirements (please check main.cpp for #includes).
+This application was originally known as "OpenGLCourseApp" as this had originally started as a course I was following, but I have renamed it since I diverged.
 
 ## Requirements
 Assimp,
