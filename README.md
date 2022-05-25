@@ -11,7 +11,9 @@ This program will not run without the following requirements (please check main.
 Assimp,
 GLEW,
 GLFW3,
-GLM
+GLM.
+
+STB_Stage_Implementation is also necessary however this file is included. The other frameworks above are too large. Edit the main.cpp file includes for the correct folders if you have installed these. Ensure your IDE knows the whereabouts of these libraries too.
 
 ## Controls
 WASD for movement and Mouse for aiming. You are flying in 3d space but are limited and will not flip over as if there was no up or down axes. 
