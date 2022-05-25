@@ -8,6 +8,8 @@ The User controls a camera flying around in 3d space using KB+M to view differen
 This program will not run without the following requirements (please check main.cpp for #includes).
 This application was originally known as "OpenGLCourseApp" as this had originally started as a course I was following, but I have renamed it since I diverged.
 
+### There may be bugs with the program but I haven't updated this since 2019.
+
 ## Requirements
 Assimp,
 GLEW,
