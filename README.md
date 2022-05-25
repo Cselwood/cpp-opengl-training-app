@@ -1,6 +1,8 @@
 # CPP-OpenGL-Training-App
 A C++, OpenGL and GLSL test program used for to develop my programming skills in both language and framework.
 
+### This program was last updated in 2019. Please expect errors. This program may not launch at all.
+
 ## Objective
 The User controls a camera flying around in 3d space using KB+M to view different lighting techniques, shadows, and moving models. There is no objective or gamified element and is instead a showcase of my programming and development in this difficult framework. Reading the files will provide insight into how I developed the shaders in GLSL and the techniques used to create shadows and objects.
 
@@ -8,14 +10,11 @@ The User controls a camera flying around in 3d space using KB+M to view differen
 This program will not run without the following requirements (please check main.cpp for #includes).
 This application was originally known as "OpenGLCourseApp" as this had originally started as a course I was following, but I have renamed it since I diverged.
 
-### There may be bugs with the program but I haven't updated this since 2019.
-
 ## Requirements
 Assimp,
 GLEW,
 GLFW3,
-GLM,
-GTC.
+GLM.
 
 STB_Stage_Implementation is also necessary however this file is included. The other frameworks above are too large. Edit the main.cpp file includes for the correct folders if you have installed these. Ensure your IDE knows the whereabouts of these libraries too.
 
